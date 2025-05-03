@@ -37,4 +37,36 @@
 | **GM Astro Van**      | 2003 (Gen 2)   | Sacudidas en aceleración                  | Vibraciones al aumentar velocidad         | `Balance de Ejes`, `Ajuste de Transmisión`     | BM_GM_Gen2_V80          | Aceleración suave                        |  
 | **Ford Windstar**     | 2006 (Gen 3)   | Fallos en transmisión automática          | Saltos de marcha                         | `Mapa de Shift Points`, `Presión de Embrague`  | BM_Ford_Gen3_V81        | Cambios de marcha precisos               |  
 | **Chevrolet Cavalier** | 2004 (Gen 4)  | Ruidos en sistema de escape               | Retumbos al acelerar                      | `Ajuste de Presión de Escape`, `Mapa de EGR`   | BM_Chevy_Gen4_V82       | Escape silencioso                        |  
-| **GM Safari**        | 2001 (Gen 2)   | Consumo alto en ciudad                    | Menos de 15
+| **GM Safari**        | 2001 (Gen 2)   | Consumo alto en ciudad                    | Menos de 15 mpg en tráfico                | `Ajuste de Start-Stop`, `Mapa de Eficiencia`   | BM_GM_Gen2_V83          | Ahorro de combustible urbano             |  
+| **Ford Freestar**     | 2007 (Gen 2)   | Fallos en sistema de tracción delantera   | Patinaje en arranque                      | `Control de Tracción`, `Mapa de Par`           | BM_Ford_Gen2_V84        | Tracción segura en arranque              |  
+| **Chevrolet Beretta** | 1996 (Gen 3)   | Vibración en frenado                      | Temblores al frenar                       | `Calibración de ABS`, `Presión Hidráulica`     | BM_Chevy_Gen3_V85       | Frenado suave y seguro                   |  
+| **GM Firebird**       | 2002 (Gen 4)   | Sobrecalentamiento en pista               | Temperatura crítica en curvas             | `Refrigeración Dinámica`, `Flujo de Aceite`    | BM_GM_Gen4_V86          | Rendimiento máximo en pista              |  
+| **Ford Aerostar**     | 1994 (Gen 1)   | Pérdida de presión de aceite              | Luz de aceite encendida                   | `Ajuste de Bomba de Aceite`                   | BM_Ford_Gen1_V87        | Presión de aceite estable                |  
+| **Chevrolet Corsica** | 1993 (Gen 2)   | Fallos en encendido                        | Motor no arranca en frío                  | `Ajuste de Chispa Fría`, `Presión de Inyectores` | BM_Chevy_Gen2_V88    | Arranque confiable en invierno           |  
+| **GM Grand Prix**     | 2005 (Gen 5)   | Ruidos en turbocompresor                  | Silbidos al acelerar                      | `Control de Wastegate`, `Boost por RPM`        | BM_GM_Gen5_V89          | Turbo silencioso                         |  
+| **Ford Ranchero**     | 1978 (Gen 5)   | Desgaste prematuro de embrague            | Olor a quemado al cambiar marchas         | `Ajuste de Punto de Enganche`                  | BM_Ford_Gen5_V90        | Embrague duradero                        |  
+| **Chevrolet Celebrity** | 1989 (Gen 3) | Fallos en sistema de dirección            | Dirección pesada                         | `Ajuste de Cremallera`, `Presión Hidráulica`   | BM_Chevy_Gen3_V91       | Dirección ligera y precisa               |  
+| **GM Sunfire**        | 2000 (Gen 3)   | Pérdida de refrigerante                   | Nivel bajo frecuente                      | `Detección de Fugas`, `Presión del Sistema`    | BM_GM_Gen3_V92          | Sistema de refrigeración sellado         |  
+| **Ford LTD**          | 1985 (Gen 3)   | Sacudidas en ralentí                      | Motor inestable en parado                 | `Ajuste de Ralentí`, `Balance de Cilindros`    | BM_Ford_Gen3_V93        | Motor estable en parado                  |  
+| **Chevrolet S-10**    | 1999 (Gen 2)   | Ruidos en diferencial                     | Crujidos al girar                         | `Ajuste de Engranajes`, `Lubricación Óptima`   | BM_Chevy_Gen2_V94       | Diferencial silencioso                   |  
+| **GM Jimmy**          | 1998 (Gen 2)   | Fallos en sistema 4x4 Low                 | Ruidos al activar                         | `Calibración de Transfer Case`                 | BM_GM_Gen2_V95          | 4x4 Low confiable                        |  
+| **Ford Pinto**        | 1976 (Gen 1)   | Sobrecalentamiento en tráfico             | Temperatura elevada en congestiones       | `Refrigeración Dinámica`, `Flujo de Agua`      | BM_Ford_Gen1_V96        | Motor fresco en tráfico                  |  
+| **Chevrolet LUV**     | 1982 (Gen 1)   | Pérdida de potencia en subidas            | Falta de fuerza en pendientes             | `Ajuste de Relación Aire-Combustible`          | BM_Chevy_Gen1_V97       | Potencia constante en colinas            |  
+| **GM Sprint**         | 1986 (Gen 1)   | Vibración en transmisión manual           | Temblores al cambiar marchas              | `Ajuste de Embrague`, `Balance de Ejes`        | BM_GM_Gen1_V98          | Transmisión manual suave                 |  
+| **Ford Fairmont**     | 1980 (Gen 2)   | Fallos en carburador                      | Mezcla pobre/rica                        | `Ajuste de Flujo de Combustible`               | BM_Ford_Gen2_V99        | Carburación óptima                       |  
+| **Chevrolet Vega**    | 1974 (Gen 1)   | Sobrecalentamiento crónico                | Temperatura crítica constante             | `Refrigeración Mejorada`, `Flujo de Agua`      | BM_Chevy_Gen1_V100      | Motor fresco y duradero                  |  
+
+---
+
+### **Explicación para el CEO**  
+Esta matriz detalla **50 casos únicos** de fallas en vehículos Ford, Chevrolet y GM, vinculando cada problema a parámetros técnicos ajustables en HPTuners y deseos del cliente. Ejemplos clave:  
+- **Ford Taurus (2015)**: Tirones en aceleración → Ajustes en throttle body para suavizar la respuesta.  
+- **Chevrolet Trax (2019)**: Consumo alto de aceite → Corrección de presión en sistema PCV.  
+- **GM Acadia (2020)**: Suspensión neumática inconsistente → Control de compresor de aire.  
+
+**Beneficios**:  
+- **Base para IA**: Entrenar un asistente virtual que diagnostique fallas basado en síntomas.  
+- **Contenido Técnico**: Crear guías/videos específicos para talleres.  
+- **Escalabilidad**: Integrar con cursos gamificados y marketplace de Base Maps.  
+
+---
