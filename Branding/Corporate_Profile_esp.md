@@ -3,7 +3,7 @@
 
 ---
 
-#### **1. Identidad Central (Simplicidad de Apple + Obsesión de Amazon)**
+#### **1. Identidad Central**
 **Misión**:
 *"Democratizar la calibración de precisión para vehículos Ford, Chevrolet y GM a través de herramientas tecnológicas colaborativas, diagnósticos impulsados por IA y una biblioteca de conocimiento compartido."*
 
