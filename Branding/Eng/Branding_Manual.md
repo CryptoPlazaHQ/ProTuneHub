@@ -1,6 +1,6 @@
 # **ProTuneHub Branding Manual**
 
-![ProTuneHub Logo](https://via.placeholder.com/800x200?text=ProTuneHub+Logo)
+![ProTuneHub Logo](https://raw.githubusercontent.com/CryptoPlazaHQ/ProTuneHub/main/Branding/Stock/Screenshot_20250427-231120.jpg)
 
 ---
 
