@@ -4,7 +4,7 @@
 
 ---
 
-**Bogotá – Mayo 2025.** En una era donde la inteligencia artificial, los vehículos eléctricos y los sistemas de asistencia se llevan la mayor parte de los titulares, una propuesta profundamente humana pero técnicamente avanzada ha comenzado a resonar en los talleres mecánicos más exigentes de América Latina: ProTuneHub.
+**Commerce City – Mayo 2025.** En una era donde la inteligencia artificial, los vehículos eléctricos y los sistemas de asistencia se llevan la mayor parte de los titulares, una propuesta profundamente humana pero técnicamente avanzada ha comenzado a resonar en los talleres mecánicos Estadounidenses: ProTuneHub.
 
 Pero, ¿qué es ProTuneHub exactamente?
 Más que una simple herramienta digital, es una plataforma web sin fricciones diseñada para potenciar, profesionalizar y escalar el ajuste de rendimiento automotriz, sin necesidad de equipos invasivos, bancos de pruebas gigantescos o procesos de certificación que tarden meses.
@@ -12,7 +12,7 @@ Más que una simple herramienta digital, es una plataforma web sin fricciones di
 ## Una Web Para Talleres Reales, con Problemas Reales
 
 > "Aquí no se trata de 'tecnología por tecnología'. Se trata de poner en manos de los talleres una solución que respeta su tiempo, su pericia y su deseo de crecer."
-> — Luis M., Fundador de ProTuneHub.
+> — Jorge R., Fundador de ProTuneHub.
 
 La plataforma fue concebida para cubrir tres frentes clave:
 
@@ -73,7 +73,7 @@ Aunque esta versión inicial de ProTuneHub no utiliza inteligencia artificial, s
 
 En un momento donde la digitalización amenaza con alejar a los técnicos del conocimiento real, ProTuneHub hace lo contrario: acerca el conocimiento técnico, lo empaqueta de forma clara y lo entrega donde más se necesita: en el taller.
 
-Con más de 50 archivos por marca, una comunidad en formación y una tasa de satisfacción por encima del 90%, el futuro de esta plataforma no está en Silicon Valley, sino en los motores que rugen todos los días en las calles de Colombia, México, Chile y más allá.
+Con más de 50 archivos por marca, una comunidad en formación y una tasa de satisfacción por encima del 90%, el futuro de esta plataforma no está en Silicon Valley, sino en los motores que rugen todos los días en las calles de Texas, Atlanta, Colorado, Florida y todos los estados donde un motor ruja.
 
 ## Epílogo: Un Ecosistema Hecho para Crear Profesionales
 
